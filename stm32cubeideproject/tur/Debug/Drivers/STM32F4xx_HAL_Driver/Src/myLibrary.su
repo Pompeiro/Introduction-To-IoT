@@ -1,0 +1,3 @@
+myLibrary.c:9:6:SysTickEnable	4	static,ignoring_inline_asm
+myLibrary.c:16:6:SysTickDisable	4	static,ignoring_inline_asm
+myLibrary.c:23:10:measureDistance	24	static,ignoring_inline_asm
